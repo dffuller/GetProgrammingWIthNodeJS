@@ -1,0 +1,4 @@
+**/.ignored/**
+*/.pnpm/**
+node_modules/**
+
